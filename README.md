@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for Coursera Data Science Week 3 project ;)
+Repo for Coursera Data Scientist Toolbox Week 3 project ;)
